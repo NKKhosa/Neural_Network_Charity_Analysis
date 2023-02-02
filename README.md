@@ -3,8 +3,7 @@
 ## Overview
 An analysis was done on data provided by Alphabet Soup to help determine which investments are most likely to prove successful. Alphabet Soup provided a CSV with funding data from over 34,000 organizations and a deep neural learning model was created to predict the success of an application. 
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
-
+## Results: 
 ### Data Preprocessing
 #### Target
 - the IS_SUCCESSFUL column was the target of this analysis to determine if the funding was used effectively.
