@@ -48,7 +48,7 @@ Optimization was attempted using the following means:
 
 However, non of these adjustments improved the accuracy or reduced the loss.
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary:
 
 Overall the deep learning model was not very sucessfull in predicting the success of an application. With a max accuracay score of 73% reached, and even that with a high loss value of 56%, the benefits of this model were few. Training the model and changing various components in order to attempt optimization was also quite time-consuming. 
 
